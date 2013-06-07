@@ -1,0 +1,16 @@
+{
+  "name": "Librario",
+  "description": "Manage and search your literature",
+  "version": "1",
+  "app": {
+    "urls": [
+      "*://*.mylibrar.io/",
+    ],
+    "launch": {
+      "web_url": "https://www.mylibrar.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
