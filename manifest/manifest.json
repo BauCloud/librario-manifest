@@ -2,6 +2,7 @@
   "name": "Librario",
   "description": "A library application allowing to manage and search your literature",
   "version": "1",
+  "manifest_version": 2,
   "app": {
     "urls": [
       "*://*.mylibrar.io/"
