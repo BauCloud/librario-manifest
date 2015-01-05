@@ -4,14 +4,14 @@
   "version": "1",
   "app": {
     "urls": [
-      "*://*.mylibrar.io/",
+      "*://*.mylibrar.io/"
     ],
     "launch": {
       "web_url": "https://login.mylibrar.io/"
     }
   },
   "icons": {
-    "128": "128.png"
+    "128": "128.png",
     "195": "195.png"
   },
   "permissions": []
