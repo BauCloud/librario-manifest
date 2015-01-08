@@ -1,8 +1,9 @@
 {
-  "name": "Librario",
-  "description": "A library application allowing to manage and search your literature",
-  "version": "1",
   "manifest_version": 2,
+  "name": "Librario - Die cloud-basierte Bibliothekssoftware",
+  "short_name": "Librario",
+  "description": "Eine Bibliothekssoftware mit der Sie einfach und schnell Ihre Fachliteratur katalogisieren und durchsuchen können.",
+  "version": "1",
   "app": {
     "urls": [
       "*://*.mylibrar.io/"
